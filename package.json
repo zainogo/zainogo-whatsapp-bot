@@ -1,0 +1,14 @@
+
+{
+  "name": "zainogo-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot di benvenuto per gruppo WhatsApp ZainoGo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.21.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
